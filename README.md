@@ -1,5 +1,5 @@
 # Voron2.4_Clean_Load_Macro
-Variable Marco set for Voron printers using "Nozzle Scrubber with a Little Bucket for Voron 2.4" to Clean load &amp; unload without opening the enclosure.
+Variable Marco set for Voron printers using "Nozzle Scrubber with a Little Bucket for Voron 2.4" to Clean load &amp; Unload without opening the enclosure.
 
 Updated CLEAN_NOZZLE macro for "Nozzle Scrubber with a Little Bucket for Voron 2.4"
 https://www.printables.com/model/201999-nozzle-scrubber-with-a-little-bucket-for-voron-24
