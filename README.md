@@ -1,6 +1,6 @@
 [<img width="171" alt="kofi_s_tag_dark" src="https://github.com/3DPrintDemon/Demon_KLIPPER_Essentials/assets/122202359/6538fcbf-b866-4e33-81c6-f9c95428bca4">](https://ko-fi.com/3dprintdemon)
 
-# Voron2.4_Clean_Load_Macro
+# Voron 2.4_Clean_Load_Macro
 Variable Marco set for Voron printers using "Nozzle Scrubber with a Little Bucket for Voron 2.4" to Clean load &amp; Unload without opening the enclosure.
 
 Updated CLEAN_NOZZLE macro for "Nozzle Scrubber with a Little Bucket for Voron 2.4"
